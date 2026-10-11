@@ -1,7 +1,7 @@
-# LEAP Project
+# Leap Project
 
 
-A group project run alongside the LEAP training programme. Teams design and build a
+A group project run alongside the Leap training programme. Teams design and build a
 trading platform themselves, using whatever technology each week has just taught them, and
 manage it as a real agile project: their own architecture, their own backlog, their own customer.
 
