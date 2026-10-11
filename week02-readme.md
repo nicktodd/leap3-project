@@ -1,4 +1,4 @@
-# Week 2 - Project Friday Guidance
+# Week 2 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -21,9 +21,14 @@ and producing a data dictionary. The analyst track's Friday includes a joint sch
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
 
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
+
 ## Context
 
-This Friday covers two things. The first is starting to run as a team the way the rest of the
+This week's project time covers two things. The first is starting to run as a team the way the rest of the
 programme expects: working with a customer, and standing up a backlog. The second is your
 platform's own data model. Go back to the business requirements spec, this is where BR-06,
 BR-09, BR-14/15 and BR-16 stop being sentences on a page and start being decisions about what

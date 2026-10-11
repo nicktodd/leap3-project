@@ -6,7 +6,7 @@
 
 **Systems Analyst track:** No new teaching content: the whole week is applied project work, with
 the emphasis on planning, roadmap and estimation, and requirements, test and impact work against
-the live build, with instructor 1-2-1s.
+the live build, with instructor office hours.
 
 > **These are suggestions, not a plan.** What follows is matched to what both tracks have
 > just been taught, so it's a sensible default for this week. In practice your team runs its

@@ -15,6 +15,17 @@ project time given what both tracks have just been taught, and what to present b
 class. It's a sensible default, not a plan to follow: your team manages its own project, decides
 what goes into each sprint and in what order, and can spend its time however it judges best.
 
+## When project time happens
+
+Friday is project time, and your instructors will give additional project time during the week
+as time allows and as projects progress. Each week's file below is written as the order to pick
+work up in, not as a plan for Friday alone.
+
+At each location there are three classrooms: two of engineers and one of analysts. The analysts
+are divided across the engineering teams for project work, so the instructors coordinate project
+time across the rooms, and your team should agree early how analysis work reaches the engineers
+on the days when the two tracks are in different rooms.
+
 ## A mixed team: engineers and analysts
 
 Each team is mostly engineers from the Software Engineering track, with one or two systems
@@ -64,7 +75,7 @@ the project guidance for that week. The kickoff slides and the spec are in
 [`kickoff/`](kickoff), and the guidance for the kickoff day itself is in
 [`week01-readme.md`](week01-readme.md).
 
-| Week | File | Engineering track | Systems Analyst track | Team deliverable | Assessed |
+| Week | File | Engineering track | Systems Analyst track | Team deliverable | Reviewed at |
 |---|---|---|---|---|---|
 | 1 | [`week01-readme.md`](week01-readme.md), [`kickoff/`](kickoff) | Foundations: Git, ways of working & GenAI | Foundations: the SA role, ways of working, JIRA/Confluence, Git | Kickoff day: candidate architecture, project plan, risk list | |
 | 2 | [`week02-readme.md`](week02-readme.md) | Pipelines (CI/CD, Docker, IaC, OWASP, Secure Code Warrior) and Data Systems (Postgres, SQL, modelling, NoSQL), in parallel | The trading domain & data systems | First backlog, customer engagement, trade database schema, data dictionary | |
@@ -79,6 +90,6 @@ the project guidance for that week. The kickoff slides and the spec are in
 
 Weeks 1 and 10 are presentation-heavy in a different way to the rest: Week 1's kickoff is
 presented to a stakeholder panel, and Week 10's is the final programme showcase. The weeks in
-between are internal weekly check-ins to the rest of the class. The four assessment touchpoints
-are described in [`assessment/assessment.md`](assessment/assessment.md); each falls on a Friday
+between are internal weekly check-ins to the rest of the class. The four review touchpoints
+are described in [`reviews/progress-reviews.md`](reviews/progress-reviews.md); each falls on a Friday
 where both tracks have just finished something coherent to look at.

@@ -1,4 +1,4 @@
-# Week 10 - Project Friday Guidance
+# Week 10 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -18,6 +18,11 @@ structuring the showcase, and a review of how AI was used across the analysis wo
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -68,7 +73,7 @@ recommendation belongs in the showcase.
   exit criteria, the honest answer might be "go, with these known issues", and that's a
   stronger thing to say in front of stakeholders than pretending there are none.
 
-## Suggested Friday session
+## Suggested project session
 
 - Apply this week's S3/CloudFront teaching to your own build. Agree who owns the deployment
   script, and actually rehearse running it twice.

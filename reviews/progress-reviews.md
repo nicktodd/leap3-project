@@ -1,25 +1,23 @@
-# Assessment
+# Progress Reviews and Scoring
 
-Your team's project work is assessed as a team, at four points across the
+Your team's project work is reviewed and scored as a team, at four points across the
 programme, for a single running score out of 100. There is no pass mark. The
 score is a measure of how far the platform and the way you are building it have
 come, and it exists so that the feedback at each review is concrete rather than
 an impression.
 
-Each team is mostly engineers with one or two systems analysts, and there is one
-assessment per team covering both the engineering and the analysis. The analysis
+Each team is mostly engineers with one or two systems analysts, and there is one review per team covering both the engineering and the analysis. The analysis
 is not a separate strand bolted on: most areas below include work that analysts
 lead, and area 2 is the analysis itself.
 
-This document is the whole rubric. Nothing is assessed that is not described
-here, and the marks against each item tell you where we think the value is.
+This document is the whole rubric. Nothing is scored that is not described here, and the points against each item tell you where we think the value is.
 
 ## How it works
 
-Assessment happens at four touchpoints, each on a Friday where both tracks have
+Reviews happen at four touchpoints, each on a Friday where both tracks have
 just finished something coherent to look at, rather than work in flight.
 
-| Touchpoint | When | What comes into scope | Marks | Running total |
+| Touchpoint | When | What comes into scope | Points | Running total |
 |---|---|---|---:|---:|
 | **TP1** | End of week 3 | Backlog, stories and acceptance criteria, the requirements pack and process models, the data model and data dictionary, the customer engagement, how the team is running itself | 20 | 20 |
 | **TP2** | End of week 6 | The domain engine, the REST API, the trading UI and authentication, and the analysis behind them: the state model, NFRs, screen specification, permission matrix and the review of the UI against it | 43 | 63 |
@@ -31,15 +29,15 @@ looked for at TP3.
 
 ### The score is additive, and the touchpoints are not deadlines
 
-Each touchpoint releases its own marks. It does not re-score everything from the
-start: TP1 is marked out of 20, TP2 adds up to 43 more, and so on, up to 100.
+Each touchpoint releases its own points. It does not re-score everything from the
+start: TP1 is scored out of 20, TP2 adds up to 43 more, and so on, up to 100.
 
-Marks you do not earn at their touchpoint are not lost. If an area is still thin
-at TP2 but solid by TP3, those marks are picked up at TP3, at full value. The
+Points you do not earn at their touchpoint are not lost. If an area is still thin
+at TP2 but solid by TP3, those points are picked up at TP3, at full value. The
 touchpoint is when the work is first looked for, and when feedback on it is most
-useful to you, not a gate that closes. Marks already earned are not taken back
+useful to you, not a gate that closes. Points already earned are not taken back
 either; the continuity checks below are their own small line items, not a
-re-marking of what came before.
+re-scoring of what came before.
 
 We will still encourage you to meet each touchpoint on time. Scoping work to
 land by a fixed review date is a large part of what this project is teaching,
@@ -48,14 +46,14 @@ Treat the dates as an external constraint the way you would on a real
 engagement. But arriving late costs nothing in the score itself.
 
 Every touchpoint after the first also carries a small **continuity check** on
-the areas already assessed. By TP2 the schema has more weeks
+the areas already reviewed. By TP2 the schema has more weeks
 built on it, and the question is whether the design still hangs together as a
 whole, whether the changes made along the way were deliberate and recorded, and
 whether anything regressed in correctness. Adjusting the earlier design is
 expected. Leaving the design record behind, or breaking something that used to
-work, is not. Those marks are noted in each area below.
+work, is not. Those points are noted in each area below.
 
-### You are assessed against your own design, and it is expected to change
+### You are reviewed against your own design, and it is expected to change
 
 There is no central set of contracts, no prescribed architecture, and no
 reference schema. What you are held to is the design record you maintain: your
@@ -70,7 +68,7 @@ team will ever have of the problem, so large parts of it turning out wrong is
 the normal outcome, not a failure. The same is true of the first schema, the
 first API shape, the first backlog and the first screen spec.
 
-What is assessed is not whether the design held still, but whether it evolved
+What is scored is not whether the design held still, but whether it evolved
 well: each significant change was a decision the team made on purpose, recorded
 with its reason, and reconciled with the rest of the design and the
 documentation. A team that spotted a modelling mistake early on, changed it
@@ -111,11 +109,11 @@ and the reviews ask for both:
 
 ### The customer's input
 
-The instructor who acted as your customer sends your assessing instructor a
+The instructor who acted as your customer sends your reviewing instructor a
 short note after each interview and demo: whether you prepared, whether you led
 the meeting, whether you confirmed what you heard, and whether you followed up
 on the answers that were left vague. That note is evidence that feeds the
-Delivery and Requirements marks. It is not a separate score.
+Delivery and Requirements points. It is not a separate score.
 
 ### Score bands
 
@@ -131,18 +129,17 @@ The number is reported with a band, so it means something without a pass line.
 
 ---
 
-# The assessed areas
+# The scored areas
 
-Eleven areas, 100 marks. Each table shows the marks available at each touchpoint.
-An `R` in the notes means the marks at that touchpoint are a regression check on
-work first assessed earlier.
+Eleven areas, 100 points. Each table shows the points available at each touchpoint.
+An `R` in the notes means the points at that touchpoint are a regression check on
+work first reviewed earlier.
 
-## 1. Delivery and agile process - 12 marks
+## 1. Delivery and agile process - 12 points
 
-How the team runs itself as a delivery team, assessed a little at every
-touchpoint rather than in one block.
+How the team runs itself as a delivery team, reviewed a little at every touchpoint rather than in one block.
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | The board reflects the real state of the work, analysis and engineering alike, and the backlog is refined as the team learns rather than set once | 1 | 1 | 1 | – |
 | Decision log and risk list are current and record real decisions and real risks, not a template filled in once; significant changes were impact-assessed before they were made | 1 | 1 | 1 | 1 |
@@ -150,12 +147,12 @@ touchpoint rather than in one block.
 | The contribution record is maintained per week, records each member's role, and matches the history and the board | 1 | – | – | – |
 | **Subtotal** | **4** | **3** | **3** | **2** |
 
-## 2. Requirements and analysis - 14 marks
+## 2. Requirements and analysis - 14 points
 
 The work the team's analysts lead: turning the spec and the customer into
 something engineers can build against and the team can check against.
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | Customer engagement is prepared and led, what was heard is confirmed back in writing, vague answers are followed up, and the customer demo is structured for its audience | 1 | 1 | – | – |
 | Stories trace to a requirement or to something the customer said, meet INVEST, and carry Given/When/Then acceptance criteria precise enough to write a test from, rather than restated requirement titles | 3 | – | – | – |
@@ -167,9 +164,9 @@ something engineers can build against and the team can check against.
 | Every requirement from BR-01 to BR-18 and every section 9 expectation traces to its stories, its tests and an honest current status | – | – | – | 1 |
 | **Subtotal** | **7** | **6** | **–** | **1** |
 
-## 3. Data, storage and analytics - 12 marks
+## 3. Data, storage and analytics - 12 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | The data model covers the domain the platform needs (accounts, instruments, orders, positions, cash, the permanent record), is normalised, any deliberate denormalisation is recorded with its reason, and it has been reconciled with the data dictionary | 3 | – | – | – |
 | Access patterns are worked out capability by capability (order processing, positions and cash, the audit trail, reporting), and each storage decision is tied to the requirement that drove it | 2 | – | – | – |
@@ -180,9 +177,9 @@ something engineers can build against and the team can check against.
 | Three business insights are each framed as a success measure a non-technical reader can act on before the pipeline is built, the numbers reconcile with the source rows, and the reporting path does not compete with live trading | – | – | 1 | – |
 | **Subtotal** | **8** | **1** | **3** | **–** |
 
-## 4. Domain and business rules - 11 marks
+## 4. Domain and business rules - 11 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | Entities, enumerations and the order lifecycle match the team's own model, and the terminal states are chosen on purpose rather than falling out of the first code written | – | 2 | – | – |
 | The BR-05 checks and the BR-06 "recorded as a commitment before execution" rule are implemented as an explicit, ordered sequence, in the domain and not in a caller | – | 3 | – | – |
@@ -193,9 +190,9 @@ something engineers can build against and the team can check against.
 | The domain is coherent across the finished platform, its evolution since TP2 is recorded, and every member can walk it as it stands now (`R`) | – | – | – | 1 |
 | **Subtotal** | **–** | **9** | **1** | **1** |
 
-## 5. API and services - 11 marks
+## 5. API and services - 11 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | A running service exposes the team's own published contract, signed off by both roles, and the contract is coherent: a consistent response shape and a consistent error shape across every operation | – | 2 | – | – |
 | Layering holds: no persistence in a controller, no HTTP or framework type in the domain, and no business rule that belongs in the domain living in a service | – | 2 | – | – |
@@ -206,9 +203,9 @@ something engineers can build against and the team can check against.
 | The API serves the event backbone cleanly; where the contract changed to meet it, the contract and its consumers were updated together (`R`) | – | – | 1 | – |
 | **Subtotal** | **–** | **10** | **1** | **–** |
 
-## 6. Events and asynchronous execution - 7 marks
+## 6. Events and asynchronous execution - 7 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | Accepting an order and executing it are genuinely separate, connected by messages, and the record of intent does not depend on execution succeeding | – | – | 1 | – |
 | The consumer is idempotent: replaying the same message does not double-debit an account, demonstrated on demand rather than described, and confirmed by reconciling the data afterwards | – | – | 3 | – |
@@ -216,20 +213,20 @@ something engineers can build against and the team can check against.
 | The market-data source and its request limits are understood, the design stays inside them, and the key never reaches the browser | – | – | 1 | – |
 | **Subtotal** | **–** | **–** | **7** | **–** |
 
-## 7. Authentication and security - 7 marks
+## 7. Authentication and security - 7 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
-| Registration and secure sign-in work end to end (BR-01), and whatever stood in for authentication earlier has been replaced or revisited deliberately, with the impact of the change assessed first | – | 2 | – | – |
+| Registration and secure sign-in work end to end (BR-01), and whatever stood in for authentication earlier has been replaced or revisited deliberately, with the impact of the change reviewed first | – | 2 | – | – |
 | A client can reach only their own positions, cash and history (BR-02, section 9.3), the check lives somewhere a caller cannot bypass, and what is enforced matches the team's permission matrix | – | 2 | – | – |
 | The session is time-limited and revocable (BR-03); if it is only time-limited, that gap is recorded as a risk rather than left silent | – | 1 | – | – |
 | Passwords are hashed with argon2 or bcrypt at a deliberate cost, never logged, and no secret is in the repository | – | 1 | – | – |
 | Adopting the auth service elsewhere in the platform is a configuration change, not a code change | – | 1 | – | – |
 | **Subtotal** | **–** | **7** | **–** | **–** |
 
-## 8. Trading UI and the end-to-end experience - 8 marks
+## 8. Trading UI and the end-to-end experience - 8 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | The required views exist (sign-in, holdings and cash, order ticket, blotter, per BR-10, BR-11, BR-13), are built to the team's screen specification, and work for the Joanna persona without a guide, evidenced by a usability test | – | 2 | – | – |
 | Sign-in runs against the real auth service, route guards block unauthenticated access, and the token is attached to the platform's own services and to nothing else | – | 1 | – | – |
@@ -239,9 +236,9 @@ something engineers can build against and the team can check against.
 | The UI works correctly served from the deployed origin; any changes needed for that (origin configuration, base href) are deliberate and recorded (`R`) | – | – | – | 1 |
 | **Subtotal** | **–** | **5** | **2** | **1** |
 
-## 9. Quality, testing and acceptance - 8 marks
+## 9. Quality, testing and acceptance - 8 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | Tests exist at the level that matches the risk (unit for rules, integration for wiring) | – | 1 | – | – |
 | A test pack traced to the acceptance criteria covers negative, boundary and failure cases, including the event flow's, and has been run against the platform with evidence recorded; test data was built deliberately and verified with SQL | – | – | 2 | – |
@@ -251,9 +248,9 @@ something engineers can build against and the team can check against.
 | The go/no-go recommendation is supported by evidence, open defects are stated honestly, and the quality gate is green without findings waved through | – | – | – | 1 |
 | **Subtotal** | **–** | **1** | **5** | **2** |
 
-## 10. Deployment and operations - 5 marks
+## 10. Deployment and operations - 5 points
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | The front end is reachable at a real URL over HTTPS, from a private origin that only the CDN reads; a public bucket does not satisfy this | – | – | – | 2 |
 | Deployment is one repeatable command covering build, upload and invalidation, and running it twice leaves the same result as running it once | – | – | – | 1 |
@@ -261,13 +258,13 @@ something engineers can build against and the team can check against.
 | The back end accepts requests from the deployed origin by a considered rule, not "allow everything" | – | – | – | 1 |
 | **Subtotal** | **–** | **–** | **–** | **5** |
 
-## 11. Defence and showcase - 5 marks
+## 11. Defence and showcase - 5 points
 
 The part no artefact can show: whether the team owns what it built. See
 "Walking work you did not build, across roles" above for what this asks of each
 role.
 
-| What is assessed | TP1 | TP2 | TP3 | TP4 |
+| What is scored | TP1 | TP2 | TP3 | TP4 |
 |---|---:|---:|---:|---:|
 | Every member can walk the backlog, its acceptance criteria and the data model unaided, and the team can say what the customer did not tell them that they still need | 1 | – | – | – |
 | Every member can walk any part of the domain, the API, the UI and authentication, including parts they did not build, and the team can show an order placed live through the UI against real services | – | 1 | – | – |

@@ -1,4 +1,4 @@
-# Week 4 - Project Friday Guidance
+# Week 4 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -17,6 +17,11 @@ domain model against real data.
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -75,7 +80,7 @@ as a test of earlier decisions, not just this week's build:
 - On the analyst side: a sequence diagram of the design you wish you had. Draw it from what's
   actually running, and where that differs from what you'd want, say so.
 
-## Suggested Friday session
+## Suggested project session
 
 - Design your API contract as a team before anyone writes a controller: the operations, the
   shape of a response, and what an error looks like, consistently, across every one of them.

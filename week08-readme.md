@@ -1,4 +1,4 @@
-# Week 8 - Project Friday Guidance
+# Week 8 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -18,6 +18,11 @@ and quality sign-off.
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -76,7 +81,7 @@ week, not a detail to handle if there's time left:
   behaviour this week is invisible from the screen, and the reconciliation queries are how an
   analyst sees it.
 
-## Suggested Friday session
+## Suggested project session
 
 - Design your event flow as a team before writing a producer or consumer: what gets published
   when an order is accepted, what consumes it to execute the order, and what else in your own

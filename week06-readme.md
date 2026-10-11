@@ -1,4 +1,4 @@
-# Week 6 - Project Friday Guidance
+# Week 6 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -18,6 +18,11 @@ impact analysis, and webhook and DEC APIs.
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -73,7 +78,7 @@ the auth service has to enforce.
   really a design decision, it's a line not to cross, worth checking for directly rather than
   assuming your logging is fine.
 
-## Suggested Friday session
+## Suggested project session
 
 - Design the auth flow as a team before anyone writes a controller: what's issued at login, what
   a refresh looks like, what a token actually needs to carry to answer BR-02.

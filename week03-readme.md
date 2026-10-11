@@ -1,4 +1,4 @@
-# Week 3 - Project Friday Guidance
+# Week 3 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -17,6 +17,11 @@ pack.
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -75,7 +80,7 @@ about this platform, not a hint about what's coming, just what you've already co
 None of this has one right answer. What matters is that the decision was made on purpose and your
 team can explain why, not that you land on any particular structure.
 
-## Suggested Friday session
+## Suggested project session
 
 - Hold a second customer meeting, led by your analysts this time and using this week's
   elicitation techniques, focused on what the trading desk checks today and which of those

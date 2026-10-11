@@ -1,4 +1,4 @@
-# Week 5 - Project Friday Guidance
+# Week 5 - Project Time Guidance
 
 ## What each track has been learning
 
@@ -19,6 +19,11 @@ to stakeholders, including handling pushback.
 > own project: you decide what goes into each sprint, in what order, and who picks it up.
 > Doing something earlier, later or differently is fine, as long as it's a choice your team
 > made and can explain.
+
+> **When project time happens.** Friday is project time, and your instructors will give
+> additional project time during the week as time allows and as projects progress. Treat
+> the sections below as the order to pick things up in, not as a Friday-only plan: start
+> as soon as the week's teaching makes a piece of this possible.
 
 ## Context
 
@@ -77,7 +82,7 @@ earlier from the week 3 user stories, that's a perfectly good choice.
   still-working states are the ones engineers have to guess at, and every guess is a likely
   defect.
 
-## Suggested Friday session
+## Suggested project session
 
 - Walk your screens as a team against the requirements spec, the screen spec and your earlier
   customer meeting notes, does what you're building actually show what the customer said they
